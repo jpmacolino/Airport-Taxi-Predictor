@@ -1,0 +1,2 @@
+# Airport-Taxi-Predictor
+For project 12 in Practicum by Yandex, I worked on data from the theoretical Sweet Lift Taxi company. In this scenario, they have collected historical data on taxi orders at airports. To attract more drivers during peak hours, I needed to predict the amount of taxi orders for the next hour.  In this project, I was tasked to achieve a RMSE metric on the test set of 48 or less, which proved challenging. But, by testing different models and creating the right features, I was able to get this down to only 41. 
